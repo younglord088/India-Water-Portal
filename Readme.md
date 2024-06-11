@@ -11,12 +11,7 @@
 - [Features](#features)
 - [Project Objectives](#project-objectives)
 - [Technical Stack](#technical-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 
